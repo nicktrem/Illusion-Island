@@ -1,2 +1,8 @@
-# ECE4525-Final-Project
-Final Project For ECE4525
+# Illusion Island
+# Final Project for ECE4525
+
+The code for the Illusion Island Video Game!
+
+Written using the p5.js JavaScript Library.
+
+To play Illusion Island,  [click here.](https://editor.p5js.org/nicktrem/full/J25VuJNET)
